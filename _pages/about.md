@@ -21,6 +21,6 @@ I enjoy turning research insights into practical applications. I'm always **inte
 
 
 ### Updates:
-- _August 2024_ : A paper [Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+Improving+Speech+Emotion+Recognition+and+Classification+Accuracy+Using+Hybrid+CNN-LSTM-KNN+Model&btnG=) is publish in International Journal of Research Publication and Reviews. [Journal homepage] (www.ijrpr.com) ISSN 2582-7421.
+- _August 2024_ : A paper [Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+Improving+Speech+Emotion+Recognition+and+Classification+Accuracy+Using+Hybrid+CNN-LSTM-KNN+Model&btnG=) is published in International Journal of Research Publication and Reviews. [Journal homepage] (www.ijrpr.com) ISSN 2582-7421.
   
-- _May 2024_ : A paper "[OPTIMIZING WASTE MANAGEMENT WITH IOT: BOOSTING EFFICIENCY AND PROMOTING SUSTAINABILITY](https://www.irjmets.com/uploadedfiles/paper//issue_5_may_2024/57390/final/fin_irjmets1716708500.pdf)" is publish in International Research Journal of Modernization in Engineering Technology and Science.
+- _May 2024_ : A paper "[OPTIMIZING WASTE MANAGEMENT WITH IOT: BOOSTING EFFICIENCY AND PROMOTING SUSTAINABILITY](https://www.irjmets.com/uploadedfiles/paper//issue_5_may_2024/57390/final/fin_irjmets1716708500.pdf)" is published in International Research Journal of Modernization in Engineering Technology and Science.
