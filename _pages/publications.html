@@ -5,32 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=knbD-EQAAAAJ&view_op=list_works&gmla=ALUCkoU0bXz3oUnyvNhXkQ1hk4xZB_acIb4NVfy65ytKtfvirb5kL9s0mRnWB9FQgriYi-Aob21jsy99OX0CwOUX">My Google Scholar Profile</a>.</u>
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="https://www.researchgate.net/profile/Md-Rashed-23">My ResearchGate Profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
