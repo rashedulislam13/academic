@@ -6,6 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
+[Download CV here](https://rashedulislam13.github.io/Rashed_CV.pdf)
+
 Education
 ======
 * B.Sc. in Information and Communication Engineering(ICE), Pabna University of Science and Technology(PUST), 2025.
