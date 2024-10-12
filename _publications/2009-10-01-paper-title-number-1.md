@@ -1,6 +1,6 @@
 
 ---
-title: "OPTIMIZING WASTE MANAGEMENT WITH IOT: BOOSTING EFFICIENCY AND PROMOTING SUSTAINABILITY"
+title: **"OPTIMIZING WASTE MANAGEMENT WITH IOT: BOOSTING EFFICIENCY AND PROMOTING SUSTAINABILITY"**
 collection: publications
 permalink: /publication/OPTIMIZING WASTE MANAGEMENT
 excerpt: 'This study proposes an IoT-based smart waste management system using smart trash cans equipped with ultrasonic sensors, ARDUINO UNO, servo motors, and GSM for communication. The system monitors trash levels and automates waste management, addressing the limitations of traditional manual methods. The smart cans provide real-time waste updates, making disposal more efficient and environmentally friendly. The goal is to create an affordable, scalable solution for smart cities to promote sustainability and cleanliness.'
