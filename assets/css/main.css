@@ -134,7 +134,7 @@ html {
 
 body {
     margin: 0;
-    padding: 70px 100px 0;
+    padding: 70px 0px 0;
     padding-bottom: 9em;
     color: #494e52;
     font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
@@ -2462,7 +2462,8 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
     margin-right: auto;
     clear: both;
     margin-top: 2em;
-    margin: 0.3in;
+    
+
     animation: intro 0.3s both;
     animation-delay: 0.35s
 }
