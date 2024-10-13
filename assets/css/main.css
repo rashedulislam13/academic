@@ -12,11 +12,12 @@ a:focus {
 }
 
 html {
-    box-sizing: border-box;
+     box-sizing: border-box;
     background-color: #fff;
     font-size: 16px;
     -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%
+    -ms-text-size-adjust: 100%;
+    width: 100%; /* Ensure full width */
 }
 
 @media (min-width: 48em) {
@@ -26,7 +27,13 @@ html {
 }
 
 body {
-    margin: 2
+    margin: 3; /* Remove default margin */
+    padding: 0;
+    color: #000;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    line-height: 1.5;
+    max-width: 100%; /* Make sure it fills the width */
+    overflow-x: hidden; /* Prevent horizontal overflow */
 }
 
 ::-moz-selection {
@@ -129,17 +136,22 @@ textarea {
 
 html {
     position: relative;
-    min-height: 100%
+    box-sizing: border-box;
+    background-color: #fff;
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    width: 100%; /* Ensure full width */
 }
 
 body {
-    margin: 12px;
-    padding: 70px 0 0;
-    padding-bottom: 9em;
+    margin: 3; /* Remove default margin */
+    padding: 0;
     color: #000;
     font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     line-height: 1.5;
-    width: 160%;
+    max-width: 100%; /* Make sure it fills the width */
+    overflow-x: hidden; /* Prevent horizontal overflow */
 }
 
 article.archive__item {
@@ -447,9 +459,9 @@ body:hover .visually-hidden a,body:hover .visually-hidden input,body:hover .visu
 }
 
 .wrapper {
-    max-width: 925px;
-    margin-left: auto;
-    margin-right: auto
+    max-width: 1200px; /* Set max width for larger screens */
+    margin: 3 auto; /* Center align */
+    padding: 0 15px; /* Add some padding */
 }
 
 .wrapper:after {
@@ -472,12 +484,20 @@ body:hover .visually-hidden a,body:hover .visually-hidden input,body:hover .visu
     margin-right: auto
 }
 
-@media (min-width: 37.5em) {
-    .align-left {
-        float:left;
-        margin-right: 1em
+@media (max-width: 768px) { /* For smaller screens */
+    html {
+        font-size: 14px; /* Reduce font size */
+    }
+
+    .wrapper {
+        padding: 0 10px; /* Less padding for smaller screens */
+    }
+
+    body {
+        padding: 10px; /* Add some padding for body */
     }
 }
+
 
 .align-right {
     display: block;
