@@ -1,23 +1,16 @@
 .container {
-    width: 100%; /* Adjust the percentage as needed */
-    max-width: 1400px; /* Optional: set a max width */
-    margin: 0 auto; /* Center the container */
-    border: 1px solid #d3d3d3;
+    width:100%;
+    border:1px solid #d3d3d3;
 }
-
-
 .container div {
     width:100%;
 }
 .container .header {
-    background-color: #f0f0f0; /* Lighter color */
-    padding: 10px; /* Increase padding for better readability */
-    font-size: 1.2em; /* Increase font size */
+    background-color:#d3d3d3;
+    padding: 2px;
     cursor: pointer;
     font-weight: bold;
 }
 .container .content {
-    display: block; /* Show content by default */
-    padding: 10px; /* Adjust padding if needed */
-    background-color: #fafafa; /* Optional background color */
-}
+    display: none;
+    padding : 5px;
