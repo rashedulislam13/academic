@@ -2491,7 +2491,8 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
         float: right;
         margin-right: 0;
         padding-left: 4.2372881356%;
-        padding-right: 16.9491525424%
+       
+        text-align: justify;
     }
 }
 
