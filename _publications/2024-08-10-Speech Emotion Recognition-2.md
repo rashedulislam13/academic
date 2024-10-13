@@ -7,10 +7,10 @@ This study addresses Speech Emotion Recognition (SER), a vital aspect of human-c
 date: 2024-08-10
 venue: 'International Journal of Research Publication and Reviews'
 paperurl: 'https://scholar.google.com/citations?hl=en&user=knbD-EQAAAAJ'
-citation: 'Hossain, Md Imran, Md Mojahidul Islam, Tania Nahrin, **Md Rashed**, and Md Atiqur. "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model." Journal homepage: www. ijrpr. com ISSN 2582: 7421.'
+citation: 'Hossain, Md Imran, Md Mojahidul Islam, Tania Nahrin, Md Rashed, and Md Atiqur. "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model." Journal homepage: www. ijrpr. com ISSN 2582: 7421.'
 ---
 
 
 [Download paper here](https://www.researchgate.net/profile/Md-Rashed-23/publication/384067491_Improving_Speech_Emotion_Recognition_and_Classification_Accuracy_Using_Hybrid_CNN-LSTM-KNN_Model/links/66e8664901cba963bf2491b4/Improving-Speech-Emotion-Recognition-and-Classification-Accuracy-Using-Hybrid-CNN-LSTM-KNN-Model.pdf)
 
-Recommended citation: Hossain, Md Imran, Md Mojahidul Islam, Tania Nahrin, **Md Rashed**, and Md Atiqur. "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model." Journal homepage: www. ijrpr. com ISSN 2582: 7421.
+Recommended citation: Hossain, Md Imran, Md Mojahidul Islam, Tania Nahrin, Md Rashed, and Md Atiqur. "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model." Journal homepage: www. ijrpr. com ISSN 2582: 7421.
