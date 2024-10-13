@@ -1,5 +1,5 @@
 ### This is my academic site.
-Site link: [Riad Hassan](https://rashedulislam13.github.io/)
+Site link: [Md. Rashed](https://rashedulislam13.github.io/)
 Here you can find my
 * Publications
 * profile
