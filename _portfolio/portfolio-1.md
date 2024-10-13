@@ -1,6 +1,6 @@
 ---
 title: "My Portfolio"
-excerpt: "You will get all update about me by this portfolio website<br/><img src='/images/500x300.png'>"
+excerpt: "You will get all update about me by this portfolio website<br/>"
 collection: portfolio
 ---
 
