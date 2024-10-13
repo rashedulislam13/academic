@@ -2726,18 +2726,21 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 @media (min-width: 48em) {
     .list__item {
         padding-right:200px
+        text-align: justify
     }
 }
 
 @media (min-width: 57.8125em) {
     .list__item {
-        padding-right:300px
+        padding-right:0px
+        text-align: justify
     }
 }
 
 @media (min-width: 80em) {
     .list__item {
         padding-right:400px
+        text-align: justify
     }
 }
 
