@@ -1,6 +1,6 @@
 .container {
-    width: 80%; /* Adjust the percentage as needed */
-    max-width: 1200px; /* Optional: set a max width */
+    width: 100%; /* Adjust the percentage as needed */
+    max-width: 1400px; /* Optional: set a max width */
     margin: 0 auto; /* Center the container */
     border: 1px solid #d3d3d3;
 }
