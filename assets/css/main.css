@@ -2708,8 +2708,8 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 
 .archive__item-excerpt+p {
-    text-indent: 0
-    text-align: justify;
+    text-indent: 0;
+    text-align: justify
 }
 
 .archive__item-teaser {
