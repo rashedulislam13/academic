@@ -2727,7 +2727,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 
 @media (min-width: 48em) {
     .list__item {
-        padding-right:200px;
+        padding-right:0;
         text-align: justify
     }
 }
