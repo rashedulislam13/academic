@@ -2467,7 +2467,8 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
     padding: 10px;
 
     animation: intro 0.3s both;
-    animation-delay: 0.35s
+    animation-delay: 0.35s;
+    text-align: justify
 }
 
 #main:after {
@@ -2708,6 +2709,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 
 .archive__item-excerpt+p {
     text-indent: 0
+    text-align: justify;
 }
 
 .archive__item-teaser {
