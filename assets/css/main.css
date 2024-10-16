@@ -2743,7 +2743,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 
 @media (min-width: 80em) {
     .list__item {
-        padding-right:400px;
+        padding-right:0px;
         text-align: justify
     }
 }
