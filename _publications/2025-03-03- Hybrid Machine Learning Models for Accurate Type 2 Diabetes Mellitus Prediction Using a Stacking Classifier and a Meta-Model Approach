@@ -3,10 +3,15 @@ title: "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Pre
 collection: publications
 permalink: /publication/Type 2 Diabetes Mellitus Prediction
 excerpt: '
-This study addresses Speech Emotion Recognition (SER), a vital aspect of human-computer interaction, using a hybrid model combining CNN, LSTM, and KNN algorithms. The CNN extracts acoustic features from speech spectrograms, while LSTM captures temporal dependencies. KNN classifies emotional states based on these features. The model, tested on the TESS dataset, achieves high accuracy and robustness, outperforming traditional methods. It holds promise for real-world applications in sentiment analysis, virtual assistants, and more, advancing SER techniques for improved human-computer interaction.'
+This study addresses Speech Emotion Recognition (SER), a vital aspect of human-computer interaction, using a hybrid model
+combining CNN, LSTM, and KNN algorithms. The CNN extracts acoustic features from speech spectrograms, while LSTM captures 
+temporal dependencies. KNN classifies emotional states based on these features. The model, tested on the TESS dataset, 
+achieves high accuracy and robustness, outperforming traditional methods. It holds promise for real-world applications 
+in sentiment analysis, virtual assistants, and more, advancing SER techniques for improved human-computer interaction.'
+
 date: 2025-03-3
 venue: 'Cureus Journal Of Computer Science'
-paperurl: 'https://doi.org/10.7759/s44389-025-03135-0'
+paperurl: 'https://www.cureusjournals.com/articles/3135-hybrid-machine-learning-models-for-accurate-type-2-diabetes-mellitus-prediction-using-a-stacking-classifier-and-a-meta-model-approach#!/'
 citation: 'Rashed, M., Hossain, M. I., Mahdi, A., & Mustofa, G. (2025). Hybrid machine learning models for accurate Type 2 diabetes mellitus prediction using a stacking classifier and a Meta-Model approach. Cureus Journals. https://doi.org/10.7759/s44389-025-03135-0 '
 ---
 
