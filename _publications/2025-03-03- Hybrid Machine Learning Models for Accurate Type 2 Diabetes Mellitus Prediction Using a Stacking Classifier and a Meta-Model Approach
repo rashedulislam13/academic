@@ -1,11 +1,11 @@
 ---
 title: "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model"
 collection: publications
-permalink: /publication/Speech_Emotion_Recognition
-excerpt: '
-This study addresses Speech Emotion Recognition (SER), a vital aspect of human-computer interaction, using a hybrid model combining CNN, LSTM, and KNN algorithms. The CNN extracts acoustic features from speech spectrograms, while LSTM captures temporal dependencies. KNN classifies emotional states based on these features. The model, tested on the TESS dataset, achieves high accuracy and robustness, outperforming traditional methods. It holds promise for real-world applications in sentiment analysis, virtual assistants, and more, advancing SER techniques for improved human-computer interaction.'
-date: 2024-08-10
-venue: 'International Journal of Research Publication and Reviews'
+permalink: /publication/Type 2 diabetes Prediction
+excerpt: 'This paper presents a hybrid machine learning approach for accurate Type 2 diabetes mellitus (T2DM) prediction, integrating a stacking classifier with a meta-model to enhance predictive performance. By leveraging multiple machine learning techniques, the study aims to improve early diagnosis and assist healthcare professionals in data-driven decision-making.
+Published in the Cureus Journal of Computer Science, indexed in PubMed, Google Scholar, CrossRef, Scilit, SHERPA ROMEO, OpenAlex, and ROAD'
+date: 2025-03-03
+venue: 'Cureus Journal Of Computer Science'
 paperurl: 'https://scholar.google.com/citations?hl=en&user=knbD-EQAAAAJ'
 citation: 'Hossain, Md Imran, Md Mojahidul Islam, Tania Nahrin, Md Rashed, and Md Atiqur. "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model." Journal homepage: www. ijrpr. com ISSN 2582: 7421.'
 ---
