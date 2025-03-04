@@ -21,6 +21,8 @@ I enjoy turning research insights into practical applications. I'm always **inte
 
 
 ### Updates:
+- _March 2025_ : A paper [Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction Using a Stacking Classifier and a Meta-Model Approach](https://doi.org/10.7759/s44389-025-03135-0 ) is published in Cureus Journal Of Computer Science. [Journal homepage] (https://www.cureusjournals.com/journal/computer-science) EISSN:3005-1487.
+  
 - _August 2024_ : A paper [Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+Improving+Speech+Emotion+Recognition+and+Classification+Accuracy+Using+Hybrid+CNN-LSTM-KNN+Model&btnG=) is published in International Journal of Research Publication and Reviews. [Journal homepage] (www.ijrpr.com) ISSN 2582-7421.
   
 - _May 2024_ : A paper "[OPTIMIZING WASTE MANAGEMENT WITH IOT: BOOSTING EFFICIENCY AND PROMOTING SUSTAINABILITY](https://www.irjmets.com/uploadedfiles/paper//issue_5_may_2024/57390/final/fin_irjmets1716708500.pdf)" is published in International Research Journal of Modernization in Engineering Technology and Science.
