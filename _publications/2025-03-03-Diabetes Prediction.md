@@ -12,6 +12,6 @@ citation: 'Rashed, M., Hossain, M. I., Mahdi, A., & Mustofa, G. (2025). Hybrid m
 ---
 
 
-[Download paper here](https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2024/59859/final/fin_irjmets1721018189.pdf)
+[Download paper here](https://assets.cureusjournals.com/artifacts/upload/original_article/pdf/3135/20250304-116426-3b7a2e.pdf)
 
 Recommended citation: Rashed, M., Hossain, M. I., Mahdi, A., & Mustofa, G. (2025). Hybrid machine learning models for accurate Type 2 diabetes mellitus prediction using a stacking classifier and a Meta-Model approach. Cureus Journals. https://doi.org/10.7759/s44389-025-03135-0.
